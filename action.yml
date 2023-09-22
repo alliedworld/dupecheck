@@ -1,0 +1,6 @@
+# action.yml
+name: 'Duplicate Check'
+description: 'Check for duplicates in a repo'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
